@@ -1,1 +1,1 @@
-This is the repository for the Alpha Blog
+Alpha Blog - basic blog page using Ruby on Rails.
